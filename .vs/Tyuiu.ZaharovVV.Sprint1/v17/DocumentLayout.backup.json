@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\\u0432\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\Tyuiu.ZaharovVV.Sprint1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51A9EB13-F4C9-4386-81E4-39E42F368D5F}|Tyuiu.ZaharovVV.Sprint1.Task1.V6\\Tyuiu.ZaharovVV.Sprint1.Task1.V6.csproj|c:\\users\\\u0432\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\tyuiu.zaharovvv.sprint1\\tyuiu.zaharovvv.sprint1.task1.v6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51A9EB13-F4C9-4386-81E4-39E42F368D5F}|Tyuiu.ZaharovVV.Sprint1.Task1.V6\\Tyuiu.ZaharovVV.Sprint1.Task1.V6.csproj|solutionrelative:tyuiu.zaharovvv.sprint1.task1.v6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{465408E3-6DE3-49E8-A20C-40C4F9E678D1}|Tyuiu.ZaharovVV.Sprint1.Task1.V6.Test\\Tyuiu.ZaharovVV.Sprint1.Task1.V6.Test.csproj|c:\\users\\\u0432\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\tyuiu.zaharovvv.sprint1\\tyuiu.zaharovvv.sprint1.task1.v6.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{465408E3-6DE3-49E8-A20C-40C4F9E678D1}|Tyuiu.ZaharovVV.Sprint1.Task1.V6.Test\\Tyuiu.ZaharovVV.Sprint1.Task1.V6.Test.csproj|solutionrelative:tyuiu.zaharovvv.sprint1.task1.v6.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A9EB13-F4C9-4386-81E4-39E42F368D5F}|Tyuiu.ZaharovVV.Sprint1.Task1.V6\\Tyuiu.ZaharovVV.Sprint1.Task1.V6.csproj|c:\\users\\\u0432\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\tyuiu.zaharovvv.sprint1\\tyuiu.zaharovvv.sprint1.task1.v6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A9EB13-F4C9-4386-81E4-39E42F368D5F}|Tyuiu.ZaharovVV.Sprint1.Task1.V6\\Tyuiu.ZaharovVV.Sprint1.Task1.V6.csproj|solutionrelative:tyuiu.zaharovvv.sprint1.task1.v6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{878D5CAF-912A-49E5-812D-C52888B43250}|Tyuiu.ZaharovVV.Sprint1.Task1.V6.Lib\\Tyuiu.ZaharovVV.Sprint1.Task1.V6.Lib.csproj|c:\\users\\\u0432\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\tyuiu.zaharovvv.sprint1\\tyuiu.zaharovvv.sprint1.task1.v6.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 274,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,12 +30,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DataServiceTest.cs",
               "DocumentMoniker": "C:\\Users\\\u0432\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\Tyuiu.ZaharovVV.Sprint1\\Tyuiu.ZaharovVV.Sprint1.Task1.V6.Test\\DataServiceTest.cs",
               "RelativeDocumentMoniker": "Tyuiu.ZaharovVV.Sprint1.Task1.V6.Test\\DataServiceTest.cs",
-              "ToolTip": "C:\\Users\\\u0432\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\Tyuiu.ZaharovVV.Sprint1\\Tyuiu.ZaharovVV.Sprint1.Task1.V6.Test\\DataServiceTest.cs",
-              "RelativeToolTip": "Tyuiu.ZaharovVV.Sprint1.Task1.V6.Test\\DataServiceTest.cs",
+              "ToolTip": "C:\\Users\\\u0432\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\Tyuiu.ZaharovVV.Sprint1\\Tyuiu.ZaharovVV.Sprint1.Task1.V6.Test\\DataServiceTest.cs*",
+              "RelativeToolTip": "Tyuiu.ZaharovVV.Sprint1.Task1.V6.Test\\DataServiceTest.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T05:47:23.444Z",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0432\u043B\u0430\u0434\u0438\u043C\u0438\u0440\\source\\repos\\Tyuiu.ZaharovVV.Sprint1\\Tyuiu.ZaharovVV.Sprint1.Task1.V6\\Program.cs",
               "RelativeDocumentMoniker": "Tyuiu.ZaharovVV.Sprint1.Task1.V6\\Program.cs",
