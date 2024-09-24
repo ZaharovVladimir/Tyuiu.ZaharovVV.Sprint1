@@ -1,15 +1,14 @@
-﻿namespace Tyuiu.ZaharovVV.Sprint1.Task0.V6.Lib
-{
-    public class DataService
-    {
-        public static int Sum(int x, int y)
-        {
-            return x + y;
-        }
+﻿using tyuiu.cources.programming.interfaces;
 
-        public static int Multipie(int x, int y)
+using tyuiu.cources.programming.interfaces.Sprint1;
+
+namespace Tyuiu.ZaharovVV.Sprint1.Task0.V6.Lib
+{
+    public class DataService : ISprint1Task0V6
+    {
+        public double Calculate()
         {
-            return x * y;
+            return 3 * (4 + 1);
         }
     }
 }

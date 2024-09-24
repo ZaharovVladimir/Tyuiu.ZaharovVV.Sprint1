@@ -8,15 +8,12 @@ namespace Tyuiu.ZaharovVV.Sprint1.Task0.V6.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void SumValidChecker()
+        public void ValidExpression()
         {
-            Assert.AreEqual(10, DataService.Sum(5, 5));
+            DataService ds = new DataService();
+            var res = ds.Calculate();
+            Assert.AreEqual(15, res);
         }
-
-        [TestMethod]
-        public void MultiplieValidChecker()
-        {
-            Assert.AreEqual(10, DataService.Multipie(2, 5));
-        }
+            
     }
 }
