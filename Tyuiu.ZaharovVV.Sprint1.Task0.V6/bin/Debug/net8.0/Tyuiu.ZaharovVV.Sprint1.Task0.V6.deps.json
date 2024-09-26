@@ -21,6 +21,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "tyuiu.cources.programming.interfaces/1.0.0.0": {
+        "runtime": {
+          "tyuiu.cources.programming.interfaces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -32,6 +40,11 @@
     },
     "Tyuiu.ZaharovVV.Sprint1.Task0.V6.Lib/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "tyuiu.cources.programming.interfaces/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

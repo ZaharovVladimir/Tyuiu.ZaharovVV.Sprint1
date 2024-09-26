@@ -1013,19 +1013,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\владимир\\.nuget\\packages\\": {}
+    "C:\\Users\\Vladimir\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\владимир\\source\\repos\\Tyuiu.ZaharovVV.Sprint1\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Test\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint1\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Test\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Test.csproj",
       "projectName": "Tyuiu.ZaharovVV.Sprint1.Task0.V6.Test",
-      "projectPath": "C:\\Users\\владимир\\source\\repos\\Tyuiu.ZaharovVV.Sprint1\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Test\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Test.csproj",
-      "packagesPath": "C:\\Users\\владимир\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\владимир\\source\\repos\\Tyuiu.ZaharovVV.Sprint1\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Test\\obj\\",
+      "projectPath": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint1\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Test\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Test.csproj",
+      "packagesPath": "C:\\Users\\Vladimir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint1\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\владимир\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vladimir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1039,8 +1039,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\владимир\\source\\repos\\Tyuiu.ZaharovVV.Sprint1\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Lib\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Lib.csproj": {
-              "projectPath": "C:\\Users\\владимир\\source\\repos\\Tyuiu.ZaharovVV.Sprint1\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Lib\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Lib.csproj"
+            "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint1\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Lib\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Lib.csproj": {
+              "projectPath": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint1\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Lib\\Tyuiu.ZaharovVV.Sprint1.Task0.V6.Lib.csproj"
             }
           }
         }
