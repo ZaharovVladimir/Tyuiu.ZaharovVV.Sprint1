@@ -42,16 +42,11 @@ namespace Tyuiu.ZaharovVV.Sprint1.Task6.V1
 
                 if (!string.IsNullOrEmpty(input))
                 {
-                    char symbol = input[0]; // Берем первый символ введенной строки
-                    string code = ((int)symbol).ToString(); // Преобразуем код символа в строку
+                    char symbol = input[0];
+                    string code = ((int)symbol).ToString(); 
                     Console.WriteLine($"Символ: {symbol} Код: {code}");
                 }
             }
-
-
-
-            Console.ReadLine();
-
         }
     }
 }
