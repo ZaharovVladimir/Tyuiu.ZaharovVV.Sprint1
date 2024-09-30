@@ -9,7 +9,6 @@ namespace Tyuiu.ZaharovVV.Sprint1.Task5.V1.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
-            int x = 124;
             var res = ds.DistanceBetweenDots(0, 0, 3, 0);
             Assert.AreEqual(res, 3);
         }
